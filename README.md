@@ -1,5 +1,5 @@
 # StartingPwnt solution
-Solution to the StartingPwnt challenge made by MaitreRenard (see https://github.com/MaitreRenard/StartingPwnt).
+Solution to the StartingPwnt challenge made by MaitreRenard (see https://github.com/MaitreRenard/StartingPwnt).\
 My objective is to share it with newcomers so that they can become familiar with the basis of pwn / binary exploitation.
 
 As for now challenges and solutions covers those 2 domains:
